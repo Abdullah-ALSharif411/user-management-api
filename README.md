@@ -22,40 +22,40 @@ A RESTful API built with Laravel for managing users with authentication and filt
 
 ### 🔹 Register
 
-![Register](docs/images/Register.png)
+![Image](Docs/images/Register.png)
 
 ### 🔹 Login
 
-![Login](docs/images/Login.png)
+![Image](Docs/images/Login.png)
 
 ### 🔹 Profail
 
-![Provail](docs/images/Profaile.png)
+![Image](Docs/images/Profaile.png)
 
 ### 🔹 Filter_Name
 
-![Provail](docs/images/filter_name.png)
+![Image](Docs/images/filter_name.png)
 
 ### 🔹 Filter_Email
 
-![Provail](docs/images/filter_email.png)
+![Image](Docs/images/filter_email.png)
 
 ### 🔹 Filter_Role
 
-![Provail](docs/images/filter_role.png)
+![Image](Docs/images/filter_role.png)
 
 ### 🔹 Filter
 
-![Provail](docs/images/filter.png)
+![Image](Docs/images/filter.png)
 
 
 ### 🔹 Logout_on_Token
 
-![Provail](docs/images/Logout_no_Token.png)
+![Image](Docs/images/Logout_no_Token.png)
 
 ### 🔹 Logout
 
-![Provail](docs/images/Logout.png)
+![Image](Docs/images/Logout.png)
 
 
 ---
